@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Doalarm_CONCORDIA_ECE_PROJECT'
